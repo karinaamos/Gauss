@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/projects/laba 2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\projects\\laba 2\\main.cpp\"",
+  "file": "C:\\projects\\laba 2\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/projects/laba 2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\Fraction.cpp.obj -c \"C:\\projects\\laba 2\\Fraction.cpp\"",
+  "file": "C:\\projects\\laba 2\\Fraction.cpp",
+  "output": "CMakeFiles\\main.dir\\Fraction.cpp.obj"
+}
+]
